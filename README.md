@@ -1,4 +1,4 @@
-![banner](https://github.com/Aryan-Who-Codes/COS/assets/115602437/6a747b3a-f8f9-4194-bb1e-54eb2e51d4f6)
+![banner (2)](https://github.com/Aryan-Who-Codes/COS/assets/115602437/e366982f-43e6-49f9-94ee-30588704cf64)
 
 # Operating System Model Project
 
