@@ -1,3 +1,5 @@
+![banner](https://github.com/Aryan-Who-Codes/COS/assets/115602437/6a747b3a-f8f9-4194-bb1e-54eb2e51d4f6)
+
 # Operating System Model Project
 
 Welcome to the Operating System Model Project! This project involves the development and maintenance of a web-based operating system model using HTML, CSS, and JavaScript.
